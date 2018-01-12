@@ -132,8 +132,7 @@ module.exports = {
         "lines-around-comment": [
             "error",
             {
-                "beforeBlockComment": true,
-                "beforeLineComment": true
+                "beforeBlockComment": true
             }
         ],
         "max-nested-callbacks": [
@@ -156,14 +155,6 @@ module.exports = {
         "quote-props": [
             "error",
             "as-needed"
-        ],
-        "quotes": [
-            "error",
-            "double",
-            {
-                "avoidEscape": true,
-                "allowTemplateLiterals": true
-            }
         ],
         "semi": [
             "error",
