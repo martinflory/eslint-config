@@ -14,7 +14,8 @@ module.exports = {
         "commonjs": true,
         "jquery": true,
         "es6": true,
-        "node": true
+        "node": true,
+        "jest": true
     },
     "globals": {
         "gdn": true
