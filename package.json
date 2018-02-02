@@ -1,6 +1,6 @@
 {
     "name": "@vanillaforums/eslint-config",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "The Vanilla Forums ESLint config.",
     "main": "index.js",
     "repository": "git@github.com:vanilla/eslint-config.git",
@@ -8,6 +8,7 @@
     "license": "MIT",
     "peerDependencies": {
         "eslint": "^4.16.0",
-        "eslint-plugin-react": "^7.6.1"
+        "eslint-plugin-react": "^7.6.1",
+        "babel-eslint": "^8.2.1"
     }
 }
