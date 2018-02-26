@@ -85,7 +85,7 @@ module.exports = {
             1,
             "property"
         ],
-        "eqeqeq": "error",
+        "eqeqeq": ["error", "smart"],
         "guard-for-in": 1,
         "no-alert": "error",
         "no-extend-native": "error",
